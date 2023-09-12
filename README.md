@@ -13,7 +13,6 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/thstolfi)
 - 💬 &nbsp; Willing to learn something new everyday;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theilorstolfi/)
-- 📝 &nbsp; Currently engaged in 🚀Rocketseat's Discover course.
 <br>
 
 ### 🔨 Languages and Tools:
